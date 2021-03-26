@@ -1,0 +1,7 @@
+.panel-container {
+  overflow-x: hidden;
+  overflow-y: auto;
+  border-right: 2px solid blue;
+  display: flex;
+  flex-direction: column;
+}

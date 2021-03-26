@@ -1,0 +1,13 @@
+.layout {
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper {
+  width: 100%;
+  margin: 1rem;
+  display: flex;
+}
