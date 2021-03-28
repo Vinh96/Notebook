@@ -4,4 +4,9 @@
   border-right: 2px solid blue;
   display: flex;
   flex-direction: column;
+  max-width:30%;
+}
+.button-container{
+  display:flex;
+  justify-content: flex-end;
 }

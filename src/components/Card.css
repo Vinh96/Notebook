@@ -1,4 +1,23 @@
 .container {
   padding: 10px;
   border: 1px solid #f7f7f7;
+
+}
+.short-title{
+  font-weight:bold;
+  font-size:19px;
+  margin : 5px 5px 10px 0 ;
+  
+}
+
+.short-date-title{
+  color: rgba(0,0,0,.6);
+  font-size : 12px;
+}
+.summary-content{
+  white-space: initial;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  
+/* word-wrap: break-word */
 }
